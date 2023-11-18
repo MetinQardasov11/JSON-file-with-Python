@@ -1,0 +1,38 @@
+{
+    "Users": {
+        "MatinGardashov": {
+            "FirstName": "Matin",
+            "LastName": "Gardashov"
+        },
+        "OmarOsmanov": {
+            "FirstName": "Omar",
+            "LastName": "Osmanov"
+        },
+        "EbubekirAliyev": {
+            "FirstName": "Ebubekir",
+            "LastName": "Aliyev"
+        },
+        "AliOmarov": {
+            "FirstName": "Ali",
+            "LastName": "Omarov"
+        }
+    },
+    "Products": {
+        "1": {
+            "ProductName": "Iphone 13 pro max",
+            "Price": 1200
+        },
+        "2": {
+            "ProductName": "Iphone X",
+            "Price": 700
+        },
+        "3": {
+            "ProductName": "Iphone 11 pro",
+            "Price": 900
+        },
+        "4": {
+            "ProductName": "Iphone 15",
+            "Price": 1500
+        }
+    }
+}

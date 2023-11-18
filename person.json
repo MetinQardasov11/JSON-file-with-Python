@@ -1,0 +1,19 @@
+{
+   "FirstName": "Matin",
+   "LastName": "Gardashov",
+   "Hobbies": [
+      "Horse Riding",
+      "Coding"
+   ],
+   "Age": 20,
+   "Programming Language": [
+      {
+         "Name": "Python",
+         "Date": 1970
+      },
+      {
+         "Name": "SQL",
+         "Date": 1989
+      }
+   ]
+}
